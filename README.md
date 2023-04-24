@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhangyc
-- 👀 I’m interested in flutter/ios/android
-- 🌱 I’m currently learning objective-c
+- 👀 I’m interested in flutter/ios/android/java
+- 🌱 I’m currently learning springboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

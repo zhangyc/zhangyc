@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhangyc
-- 👀 I’m interested in java&dart
+- 👀 I’m interested in java&dart&python
 - 🌱 I’m currently learning springboot
 - 📫 I value freedom, optimism and meaningful conversations. My goal is to build an amazing life through continuous learning, challenging myself with new adventures, and having a positive impact on those around me.
 - 👋 I'm excited to connect with you. Let's chat! 
